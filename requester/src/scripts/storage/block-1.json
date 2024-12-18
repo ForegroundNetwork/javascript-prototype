@@ -1,0 +1,14 @@
+{
+  "index": 1,
+  "timestamp": 1734556290528,
+  "transactions": [
+    {
+      "fromAddress": null,
+      "toAddress": "adam",
+      "amount": 50
+    }
+  ],
+  "requests": [],
+  "previousHash": "4c0c1c5523e7f96f7489ddc6b0994450",
+  "hash": "22bc7c9817c5b10c1ee084cf4de3f32c40f814c515131ca5af7458a321fe0523"
+}
