@@ -1,0 +1,14 @@
+{
+  "index": 0,
+  "timestamp": 1734556284505,
+  "transactions": [
+    {
+      "fromAddress": null,
+      "toAddress": "ERC20BRIDGE",
+      "amount": 1e+26
+    }
+  ],
+  "requests": [],
+  "previousHash": "0",
+  "hash": "4c0c1c5523e7f96f7489ddc6b0994450"
+}
